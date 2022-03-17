@@ -8,6 +8,7 @@
 
 ### Fixed
 
+- Fixed issue where .gyb files could not be added to source file list [#1191]((https://github.com/yonaskolb/XcodeGen/issues/1191) @hakkurishian
 - Fixed crash caused by a simultaneous write during a glob processing [#1177](https://github.com/yonaskolb/XcodeGen/issues/1177) @tr1ckyf0x
 
 ## 2.26.0
